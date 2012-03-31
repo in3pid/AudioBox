@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndroidTestActivity!</string>
+    <string name="app_name">AndroidTest</string>
+    <string name="build_name">Build something</string>
+
+</resources>
